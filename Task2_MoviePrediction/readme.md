@@ -73,5 +73,6 @@ The model successfully predicts movie ratings based on movie features. The proje
 
 ## 👩‍💻 Author
 Gopu Sankeerthana
+
 Data Science Intern
 
